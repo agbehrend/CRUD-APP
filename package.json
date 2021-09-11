@@ -1,0 +1,36 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"#computer-demonstration-of-the-application\">Demonstration of the application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;\r   <a href=\"#star-features\">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;\r   <a href=\"#rocket-technologies-used\">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;\r   <a href=\"#information_source-application-installation\">Application installation</a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agbehrend/CRUD-APP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agbehrend/CRUD-APP/issues"
+  },
+  "homepage": "https://github.com/agbehrend/CRUD-APP#readme",
+  "devDependencies": {
+    "react-scripts": "^4.0.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
